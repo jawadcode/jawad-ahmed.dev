@@ -57,4 +57,4 @@ propagating the knowledge and improving the experience of others.
 ## Feedback
 
 Corrections of mistakes made in any posts and suggestions for future posts are welcome in
-[the repo's issues](https://github.com/jawadcode/jawad-ahmed.me/issues).
+[the repo's issues](https://github.com/jawadcode/jawad-ahmed.dev/issues).
